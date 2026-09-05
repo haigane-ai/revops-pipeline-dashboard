@@ -103,7 +103,7 @@ Won revenue, open pipeline, win rate, average deal size and deal count, with rev
 
 ### Page 2 — Funnel and Conversion
 
-![Funnel and Conversion](screenshots/02-funnel-conversion.png)
+_Funnel and conversion page — screenshot being re-exported at higher resolution._
 
 Deals by current stage, win rate by sales rep, and the channel matrix that carries the analysis.
 
